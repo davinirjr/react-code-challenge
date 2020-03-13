@@ -1,7 +1,6 @@
 # React code challenge.
 
-Thank you for applying to Hivelocity.  This repo contains the basics for you code challenge. To do this challenge
-please:
+Thank you for applying to Hivelocity.  This repo contains the basics for you code challenge. To do this challenge please:
  
 1. fork this repository.
 2. code up the design in the *challenge* section below
